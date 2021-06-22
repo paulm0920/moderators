@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "88c8e73024ce775d",
+    "type": "split",
+    "children": [
+      {
+        "id": "160f510c42efe5fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1ce7a52216dd764d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TEA community incentive plan.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d372acd1696f705b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4afe05889d4017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a67d37092960ed1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b41a7a88676d46f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebd9f4912d733ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d628af48363b1248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59dccfce9dc6facc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEA community incentive plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ce7a52216dd764d",
+  "lastOpenFiles": [
+    "TEA community incentive plan.md",
+    "defrost schedule.md",
+    "defrost.md",
+    "README.md"
+  ]
+}

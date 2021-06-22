@@ -1,0 +1,2 @@
+Every frozen seed has a preset defrost time. The time is block height in blockchain.
+When the block chain reaches that block height, the seed can be [[defrost]] by it owner at any time. The seed can be [[plant]] to a mining machine and grow. Or, to [[stake]] to an existing Camellia as an investment. Before defrost, the seed is frozen, cannot do anything but wait.
