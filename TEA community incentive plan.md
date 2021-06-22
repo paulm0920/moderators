@@ -55,3 +55,6 @@ Every 100 coupon points can exchange for one coupon, that is one CML seed.
 Coupon points and coupon and frozen seeds are all token, They are transferrable. 
 
 One thing need to mention: The coupon and seeds they received are the seeds original belonging to the TEA Project team. You can find the differences between team seeds and investor seeds. They are different defrost schedule. The only way to get investor's seeds is to join the investment activity and you have to be a acredit investor to be qualified.
+
+## Benefit of coupon points incentive
+When the CML seeds price going up in future rounds of fundraising, all coupon points holders share the appreciation. This makes all the community numbers have the common interest and goal. For those who really understand and believe in this, they deserve the money. As long as some of the early stage community members really gain from this game, others will follow up too.
