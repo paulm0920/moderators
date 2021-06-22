@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "TEA community incentive plan.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TEA community incentive plan.md",
+            "file": "teaser for banks.md",
             "mode": "source"
           }
         }
@@ -97,11 +97,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ce7a52216dd764d",
+  "active": "160f510c42efe5fe",
   "lastOpenFiles": [
     "TEA community incentive plan.md",
     "defrost schedule.md",
+    "README.md",
     "defrost.md",
-    "README.md"
+    "Untitled.md"
   ]
 }

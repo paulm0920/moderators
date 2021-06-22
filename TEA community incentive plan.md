@@ -47,7 +47,11 @@ The team will reserve team's coupon as incentive to the moderators.
 We define 1/100 coupon as one point. Once the moderator earn 100 points, he can exchange for one coupon. One coupon currently worth 1000 USD, and planed 5000 USD in seres A. But if he did not get to 100 points, we cannot exchange to one coupon because the NFT is  not splitable.
 
 We can set points for each task, or for long-term moderators as part of their compensation. We will leave the choice to the moderators. A combination of USD and Points, just need to decide the composition (ratio)
+(())
+For those who take portion of their compensation in coupon points rather than USD, we will match 100% points as bonus. For example, if someone is supposed to receive 1000 USD. He is willing to take 500 USD and 500 worth of coupon points. The price of coupon points we fix to $10 / points. This is the price of the coupon at our seeds round fundraising (1000 USD / coupon). So he will receive 500 USD and 10 coupon points. We will give him additional 10 coupon points. So he actually receives 500 USD and 20 coupon points. Based on the price of our seeds round. He actually received 1500 USD rather than 1000 USD. Not to mention the price of coupon may raise in the future rounds of fundraising.
 
+Every 100 coupon points can exchange for one coupon, that is one CML seed.
 
+Coupon points and coupon and frozen seeds are all token, They are transferrable. 
 
-
+One thing need to mention: The coupon and seeds they received are the seeds original belonging to the TEA Project team. You can find the differences between team seeds and investor seeds. They are different defrost schedule. The only way to get investor's seeds is to join the investment activity and you have to be a acredit investor to be qualified.
