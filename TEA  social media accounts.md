@@ -3,6 +3,7 @@ Telegram: https://t.me/joinchat/Y-MEsnA8uSE2ZDJh
 Medium: 	https://medium.com/@teaproject  , in the future teaproject.mediumcom  login: info@teaproject.org  pw: letTe@fly
 Instagram: @teaprojectorg, pw: TEAProjectins1!
 Twitter: @teaprojectorg, pw: TEAProjecttwi1!
+Reddit: Id: teaprojectorg (info@teaproject.org credentials)
 
 If you need accounts in other social media, let me know.
 
