@@ -2,7 +2,7 @@
 This proposal is a dApp that can run when TEA testnet ready. 
 
 Some highlights:
-- TEA core team offers reward in USDT and CML to content creators and curators.
+- TEA core team offers reward in USDT and CML to both content creators and curators.
 - Rewards issued for every epoch.(one or two weeks)
 - TEA Core Team propose a topic or requirement guideline. Content creator create the content and post to his own social media. 
 - Content creators commit the link to the dApp as a "candidate"
@@ -51,5 +51,11 @@ Although the $T in the game is faked, but the USDT and CML are real.
 We can get test data to improve our UX. We hope to know if the mining work flow and curator market with bonding curve actually works.
 
 # User workflow
+## Epoch starts
+In the real mainnet, there won’t have a concept called epoch. Because there is no “reset” button in the real blockchain. however, during preview and test net, we probably will need to update the whole blockchain so that the old data have to be removed. Every time we remove the old data and start everything from the very beginning, we call it an Epoch Start.
+
+Do not worry about all the token you mined during last epoch. Those money are not real money, you can just do it again from very beginning. All the real rewards, including USDT and CML will not be stored in the preview or test net. They are not lost.
+
+So you can consider the epoch start is just a genesis block, just it may happen again and again.
 
 # Technical design

@@ -1,21 +1,10 @@
 {
   "main": {
-    "id": "88c8e73024ce775d",
+    "id": "c75a52e307aff4a2",
     "type": "split",
     "children": [
       {
-        "id": "160f510c42efe5fe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2726e43dc551d7c6",
+        "id": "da2596a27a778d1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,101 +13,65 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "5dbf2cbcf9a098d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "workflow.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d372acd1696f705b",
-    "type": "split",
+    "id": "5d8b783033bb639b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1b4afe05889d4017",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a67d37092960ed1a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "b41a7a88676d46f4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "b44f13ca6d65a1c6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0a088d60ca2f9cc4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "right": {
-    "id": "ebd9f4912d733ee1",
-    "type": "split",
+    "id": "eaee702763d5aa12",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d628af48363b1248",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "59dccfce9dc6facc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Testnet Curator Rewards.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "c7246b7e5f2c15c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Testnet Curator Rewards.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    ]
   },
-  "active": "2726e43dc551d7c6",
+  "active": "da2596a27a778d1a",
   "lastOpenFiles": [
     "Testnet Curator Rewards.md",
-    "README.md",
-    "workflow.md",
-    "TEA  social media accounts.md",
-    "teaser for banks.md",
-    "Git Projects.md",
-    "TEA community incentive plan.md",
-    "defrost schedule.md",
-    "defrost.md",
     "Untitled.md"
   ]
 }
