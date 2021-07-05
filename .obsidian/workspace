@@ -20,18 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testnet Curator Rewards.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5dbf2cbcf9a098d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "workflow.md",
+            "file": "Preview release plan/README.md",
             "mode": "source"
           }
         }
@@ -90,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testnet Curator Rewards.md",
+                "file": "Preview release plan/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +99,15 @@
   },
   "active": "2726e43dc551d7c6",
   "lastOpenFiles": [
+    "Preview release plan/README.md",
+    "Investor List Form.md",
+    "fast mode.md",
+    "Untitled.md",
     "Testnet Curator Rewards.md",
     "README.md",
     "workflow.md",
     "TEA  social media accounts.md",
     "teaser for banks.md",
-    "Git Projects.md",
-    "TEA community incentive plan.md",
-    "defrost schedule.md",
-    "defrost.md",
-    "Untitled.md"
+    "Git Projects.md"
   ]
 }
