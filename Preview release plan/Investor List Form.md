@@ -1,3 +1,6 @@
+The form URL is https://forms.gle/PddrrWfdhzSP23yT7  Or fill in below
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNyJVmRjyYImTtTJ3AEzk8y6s3ZfCnoxMEzfbyYi_vVdIIzg/viewform?embedded=true" width="640" height="2016" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 A google form.
 Testers fill in this form to be act as "investors" who receive genesis CML seeds coupon.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Preview release plan/README.md",
+            "file": "Preview release plan/Investor List Form.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preview release plan/README.md",
+                "file": "Preview release plan/Investor List Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "da2596a27a778d1a",
   "lastOpenFiles": [
+    "Preview release plan/Investor List Form.md",
+    "Preview release plan/fast mode.md",
     "Preview release plan/README.md",
     "Testnet Curator Rewards.md",
     "Investor List Form.md",
