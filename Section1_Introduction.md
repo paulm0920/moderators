@@ -2,7 +2,7 @@
 >"The struggle between centralization and decentralization is at the core of American history.
 >-- Anthony Gregory
 
-Entering the Era of Decentralized and Trusted Cloud Computing: An Overview of the Core Technology
+## Entering the Era of Decentralized and Trusted Cloud Computing: An Overview of the Core Technology
 About a decade ago when the global financial crisis struck the world, a mysterious inventor named Mr. Satoshi Nakamoto proposed and built an electronic cash system known as bitcoin. It allowed online payments to be sent directly from one party to another without the involvement of a financial institution. This was welcomed as a means to defend society against financial monopoly by a few “too big to fail '' financial institutions.
 
 In the world of computing, more and more organizations and individuals are leveraging cloud computing to meet their information needs. This in turn has created a centrality of power in the processing and storage of data. This new trend toward computational monopoly is a great threat to the data-centric economy we are heading into.
