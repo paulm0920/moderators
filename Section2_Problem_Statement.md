@@ -3,9 +3,8 @@
 1.  ## Big Tech and The Looming Threat To Autonomy
     
 
- “The same technology that can encourage a virtuous circle of greater access, lower costs and better services might equally induce a vicious circle of data silos, market power and anti-competitive practices.”
-
-  - Bank for International Settlements
+> “The same technology that can encourage a virtuous circle of greater access, lower costs and better services might equally induce a vicious circle of data silos, market power and anti-competitive practices.”
+>   - Bank for International Settlements
 
 The existing Internet heavily relies on cloud computing. Cloud computing allows us to run complex and rich applications. However, cloud computing as of today has a major problem: you have to trust the cloud computing provider with your data. In other words, your data is at the mercy of the cloud service providers. 
 
