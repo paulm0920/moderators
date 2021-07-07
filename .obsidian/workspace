@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Whitepaper/README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,14 +89,14 @@
   "active": "da2596a27a778d1a",
   "lastOpenFiles": [
     "Whitepaper/README.md",
+    "Trusted Platform Module As a Computing Base For Blockchain.md",
     "Untitled.md",
+    "Untitled 1.md",
     "Whitepaper/Section2.md",
     "Whitepaper/Legal Disclaimer.md",
     "Whitepaper/Untitled.md",
     "Whitepaper/Readme.md",
     "Whitepaper/Section1.md",
-    "Whitepaper/Section2_Problem_Statement.md",
-    "Whitepaper/Section1_Introduction.md",
-    "Section1_Introduction.md"
+    "Whitepaper/Section2_Problem_Statement.md"
   ]
 }
