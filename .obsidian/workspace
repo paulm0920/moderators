@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Preview release plan/Investor List Form.md",
+            "file": "Whitepaper/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preview release plan/Investor List Form.md",
+                "file": "Whitepaper/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "da2596a27a778d1a",
   "lastOpenFiles": [
+    "Whitepaper/Readme.md",
+    "Whitepaper/Section1.md",
+    "Whitepaper/Section2_Problem_Statement.md",
+    "Whitepaper/Section1_Introduction.md",
+    "Whitepaper/Untitled.md",
+    "Section1_Introduction.md",
     "Preview release plan/Investor List Form.md",
     "Preview release plan/fast mode.md",
     "Preview release plan/README.md",
-    "Testnet Curator Rewards.md",
-    "Investor List Form.md",
-    "fast mode.md",
-    "Untitled.md",
-    "Untitled.md"
+    "Testnet Curator Rewards.md"
   ]
 }
